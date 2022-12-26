@@ -3,5 +3,6 @@
 <body>
 <h1> heading <h1>
 <a href="#">download excursion</a>
+<img src=""D:\git practice\excursion\resoures\images">
 </body>
 </html>
